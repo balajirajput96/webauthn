@@ -8,7 +8,7 @@ package-mode = false
 
 [tool.poetry.dependencies]
 asn1 = "^3.0.1"
-cryptography = "^44.0.3"
+cryptography = "^46.0.5"
 fido2 = "^2.0.0"
 
 [build-system]
